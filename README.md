@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanif Rahman</h1>
+<h1 align="center">Hi 👋🏻, I'm Dhanif Rahman</h1>
 <h3 align="center">Informatics Engineering Student</h3>
 
 <p align="left">
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Informatics Engineering**
 - 👨🏻‍💻 All of my projects are available at  
   **https://github.com/dhanifrahman**
-- 💬 Ask me about **C++ OOP**
+- 💬 Ask me about **Data Science, Machine Learning, Python, and Data Analysis**
 - 📫 How to reach me **dhanifraahman@gmail.com**
 - 📄 Know about my experiences  
   **https://id.linkedin.com/in/dhanifrahman**
@@ -56,10 +56,7 @@
 </a>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanifrahman&show_icons=true&locale=en" alt="dhanifrahman" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanifrahman" alt="dhanifrahman" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanifrahman&show_icons=true" />
+  <img src="https://streak-stats.demolab.com?user=dhanifrahman" />
 </p>
