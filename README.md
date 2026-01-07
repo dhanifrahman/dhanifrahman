@@ -57,6 +57,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanifrahman&show_icons=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanifrahman&show_icons=true" />
   <img src="https://streak-stats.demolab.com?user=dhanifrahman" />
 </p>
