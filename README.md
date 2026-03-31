@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Dhanif Rahman</h1>
-<h3 align="center">Informatics Engineering Student</h3>
+<h3 align="center">Information Technology Student</h3>
 
 <p align="left">
 <a href="https://twitter.com/dhanifrahman" target="blank">
@@ -7,7 +7,7 @@
 </a>
 </p>
 
-- 🌱 I’m currently learning **Informatics Engineering**
+- 🌱 I’m currently learning **Information Technology**
 - 👨🏻‍💻 All of my projects are available at  
   **https://github.com/dhanifrahman**
 - 💬 Ask me about **Data Science, Machine Learning, Python, Data Analysis, and Software Development**
