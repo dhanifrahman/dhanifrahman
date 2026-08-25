@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Information Technology**
 - 👨🏻‍💻 All of my projects are available at  
   **https://github.com/dhanifrahman**
-- 💬 Ask me about **Data Science, Machine Learning, Python, Data Analysis, and Software Development**
+- 💬 Ask me about **Cybersecurity, Machine Learning, Python, Data Analysis, and Software Development**
 - 📫 How to reach me **dhanifraahman@gmail.com**
 - 📄 Know about my experiences  
   **https://id.linkedin.com/in/dhanifrahman**
